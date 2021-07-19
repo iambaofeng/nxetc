@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "小米10",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "deviceId": "Mi 10 Pro"
+        }
+    ]
+}
