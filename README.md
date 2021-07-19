@@ -1,4 +1,4 @@
-# nxetc
+# 宁夏ETC
 
 A new Flutter project.
 
